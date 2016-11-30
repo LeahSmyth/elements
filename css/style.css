@@ -1,0 +1,151 @@
+* {
+	padding:0em;
+	margin:0;
+	font-size:100%;
+	line-height:1em;
+	}
+
+body { max-width:100%;
+			min-height:100%;
+			font-size:1em;
+            font-family:'Arimo',sans-serif;
+            margin:auto;
+            line-height:1em;
+		  	text-align:left;
+			overflow-x:hidden;
+			color:black;
+			background:#fff;}
+
+p{padding-bottom:.5em;
+	padding-left:3em;
+	padding-right:3em;
+	padding-top:.5em;
+	line-height:1.5em;
+	font-size:1.2em;
+	color:#000;
+	}
+
+/*---Headings---*/
+
+ h1 {font-family:'Bungee Hairline',cursive;
+         	font-weight:500;
+            color:#000;
+			text-align: center;
+            font-size:7em;
+			padding-top:1em;
+			padding-bottom:0em;
+			}
+
+h2 {font-family:'Bungee Hairline',cursive;
+           font-weight:normal;
+            color:#000;
+			text-align: center;
+    		font-size:3em;
+			padding-top:1.5em;
+			padding-bottom:.7em;
+            font-weight:bold;
+			}
+
+/*---Nav---*/
+
+.nav a{
+	padding:4em 0;
+	text-align:center;
+	margin:10px;
+	color:#fff;
+	text-decoration:none;
+	font-size:1.3em;
+	}
+
+nav {padding-top:1em;
+	padding-bottom:1em;}
+
+nav ul {text-align:center;}
+
+nav ul li {display:inline;
+	margin:40px;
+	text-align:center;}
+
+nav{position:fixed;
+	top:0;
+	left:0;
+	margin:0;
+	width:100%;
+	background:#000;
+	z-index:2;}
+
+.nav a:hover{text-decoration:none;
+			color:#ef9abc;
+			}
+
+.dia{font-family:'Bungee Hairline',cursive;
+    font-size:8em;
+    font-weight:bold;
+    color:#d2b0e2;}
+
+/*---Masonry---*/
+
+.masonry {
+    padding-left:6em;
+    padding-right:1em;
+    column-count:3;
+    column-gap:.5em;
+}
+
+.item {
+    background-color:#fff;
+    display:inline-block;
+    margin:0 0 1em;
+   	width:100%;
+	}
+
+.item:hover{opacity:0.4;}
+
+/*---Images---*/
+
+.element{height:30em;
+        float:left;
+        padding-left:4em;
+        margin-right:2em;
+        padding-bottom:1em;}
+
+.raw{padding-left:2em;
+    height:40em;}
+
+.uses{height:18em;
+    width:22em;
+    padding-left:3em;
+    padding-top:1em;
+    padding-bottom:1em;}
+
+
+
+/*---Footer---*/
+
+.foot{background-color:#ef9abc;
+		height:1em;
+		margin-top:2em;}
+
+.social{font-family: 'Roboto', sans-serif;
+	color:#ef9abc;
+	text-decoration:none;
+    width:100%;
+    margin:0;
+	}
+
+
+footer{font-size:.9em;
+	color:#98dbed;
+	padding-top:.7em;
+	padding-bottom:1em;
+	text-align:center;
+	left:0;
+	margin:0;
+	width:100%;
+	background:#000;
+	text-decoration:none;
+		}
+
+a:link{font-size:.9em;
+		color:#ef9abc;
+		text-decoration:none;}
