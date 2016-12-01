@@ -21,9 +21,27 @@ p{padding-bottom:.5em;
 	padding-right:3em;
 	padding-top:.5em;
 	line-height:1.5em;
-	font-size:1.2em;
+	font-size:1.4em;
 	color:#000;
 	}
+
+.bold{color:#98dbed;
+    font-weight:bold;}
+
+.bold1{color:#f4f498;
+    font-weight:bold;}
+
+.bold2{color:#edba88;
+    font-weight:bold;}
+
+.bold3{color:#7ee8b2;
+    font-weight:bold;}
+
+.bold4{color:#ef9abc;
+    font-weight:bold;}
+
+.bold5{color:#d2b0e2;
+    font-weight:bold;}
 
 /*---Headings---*/
 
@@ -51,10 +69,10 @@ h2 {font-family:'Bungee Hairline',cursive;
 .nav a{
 	padding:4em 0;
 	text-align:center;
-	margin:10px;
+	margin:8em;
 	color:#fff;
 	text-decoration:none;
-	font-size:1.3em;
+	font-size:2em;
 	}
 
 nav {padding-top:1em;
@@ -63,7 +81,6 @@ nav {padding-top:1em;
 nav ul {text-align:center;}
 
 nav ul li {display:inline;
-	margin:40px;
 	text-align:center;}
 
 nav{position:fixed;
@@ -85,39 +102,60 @@ nav{position:fixed;
 
 /*---Masonry---*/
 
-.masonry {
-    padding-left:6em;
-    padding-right:1em;
-    column-count:3;
-    column-gap:.5em;
-}
+.item{height:27em;
+    padding-left:2em;
+    padding-bottom:2em;
+	}
 
-.item {
-    background-color:#fff;
-    display:inline-block;
-    margin:0 0 1em;
-   	width:100%;
+.item1{height:27em;
+    padding-left:10em;
+    padding-bottom:2em;
 	}
 
 .item:hover{opacity:0.4;}
 
+.item1:hover{opacity:0.4;}
+
 /*---Images---*/
 
-.element{height:30em;
+.elements{height:27em;
         float:left;
         padding-left:4em;
         margin-right:2em;
         padding-bottom:1em;}
 
-.raw{padding-left:2em;
-    height:40em;}
+.raw{float:right;
+    width:25em;
+    height:30em;
+    padding-right:3em;}
 
-.uses{height:18em;
-    width:22em;
-    padding-left:3em;
+.uses{height:16em;
+    width:20em;
+    margin-right:2em;
+    margin-left:4em;
     padding-top:1em;
     padding-bottom:1em;}
 
+@-webkit-keyframes rotate{
+    from{
+        -webkit-transform:rotate(0deg);
+    }
+    to{
+        -webkit-transform:rotate(360deg);
+    }
+}
+
+.structure{position:relative;
+    height:30em;
+        padding-bottom:0em;
+        padding-top:0em;
+        margin-left:24em;
+        -webkit-animation-name:rotate;
+        -webkit-animation-duration:10s;
+        -webkit-animation-iteration-count:infinite;
+        -webkit-animation-timing-function:linear;}
+
+/*---Table---*/
 
 
 /*---Footer---*/
