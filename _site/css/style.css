@@ -16,6 +16,17 @@ body { max-width:100%;
 			color:black;
 			background:#fff;}
 
+.body1{ max-width:100%;
+			min-height:100%;
+			font-size:1em;
+            font-family:'Arimo',sans-serif;
+            margin:auto;
+            line-height:1em;
+		  	text-align:left;
+			overflow-x:hidden;
+			color:black;
+			background:url(../images/icons.svg) repeat-x fixed;}
+
 p{padding-bottom:.5em;
 	padding-left:3em;
 	padding-right:3em;
@@ -46,7 +57,7 @@ p{padding-bottom:.5em;
 /*---Headings---*/
 
  h1 {font-family:'Bungee Hairline',cursive;
-         	font-weight:500;
+         	font-weight:bold;
             color:#000;
 			text-align: center;
             font-size:7em;
