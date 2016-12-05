@@ -3,22 +3,17 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 283.5 283.5" style="enable-background:new 0 0 283.5 283.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#D2B0E2;}
-	.st1{fill:none;stroke:#D2B0E2;stroke-width:10;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
 </style>
 <g>
 	<g>
-		<g>
-			<g>
-				<path class="st0" d="M195.7,79l60.2,44.4l-112.8,80.1L32.7,123.4L91.9,79H195.7 M199,69H88.6l-72.7,54.5l127.2,92.3L273,123.5
-					L199,69L199,69z"/>
-			</g>
-			<g>
-				<path class="st0" d="M158.5,79l45.3,45.2l-60.7,75.6l-60.6-75.5L128.3,79H158.5 M162.6,69h-38.4l-55.1,54.5l74,92.3l74.1-92.3
-					L162.6,69L162.6,69z"/>
-			</g>
-			<line class="st1" x1="21.3" y1="123.5" x2="266.8" y2="123.5"/>
-		</g>
+		<path d="M165.5,112.4l27.9,20.6l-52.3,37.1L89.9,133l27.5-20.6H165.5 M167,107.7h-51.2L82.1,133l59,42.8l60.2-42.8L167,107.7
+			L167,107.7z"/>
 	</g>
+	<g>
+		<path d="M148.3,112.4l21,21l-28.1,35.1l-28.1-35l21.2-21L148.3,112.4 M150.2,107.7h-17.8L106.8,133l34.3,42.8l34.4-42.8
+			L150.2,107.7L150.2,107.7z"/>
+	</g>
+	<line class="st0" x1="87.7" y1="133" x2="195.8" y2="133"/>
 </g>
 </svg>
