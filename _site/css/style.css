@@ -60,8 +60,8 @@ p{padding-bottom:.5em;
          	font-weight:bolder;
             color:#000;
 			text-align: center;
-            font-size:7em;
-			padding-top:1.5em;
+            font-size:8em;
+			padding-top:1.2em;
 			padding-bottom:0em;
 			}
 
@@ -78,7 +78,7 @@ h3{font-family: 'Sacramento', cursive;
     font-weight:normal;
             color:#000;
 			text-align: center;
-    		font-size:5em;
+    		font-size:6em;
 			padding-top:1em;
             padding-bottom:.7em;}
 
@@ -124,21 +124,23 @@ nav{position:fixed;
     padding-left:2em;
     padding-bottom:2em;
 	}
+.item:hover, .item:focus, .item:active {
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);}
 
 .item1{height:27em;
     padding-left:10em;
     padding-bottom:2em;
 	}
-
-.item:hover{opacity:0.4;}
-
-.item1:hover{opacity:0.4;}
+.item1:hover, .item1:focus, .item1:active {
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);}
 
 /*---Images---*/
 
-.diamond{height:20em;
+.diamond{height:22em;
         position:relative;
-        margin-left:29.5em;
+        margin-left:28em;
         margin-bottom:-9em;
         margin-top:-4em;}
 
@@ -181,7 +183,7 @@ nav{position:fixed;
 
 /*---Table---*/
 
-table {margin-top:.1em;
+table {margin-top:-1em;
         margin-left:4em;
         width:90%;
         height:37em;
@@ -198,16 +200,34 @@ td{color:#fff;
 .white{background:#fff;}
 
 .blue{background:#98dbed;}
+.blue:hover, .blue:focus, .blue:active {
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);}
 
 .orange{background:#edba88;}
+.orange:hover, .orange:focus, .orange:active {
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);}
 
 .pink{background:#ef9abc;}
+.pink:hover, .pink:focus, .pink:active {
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);}
 
 .purple{background:#d2b0e2;}
+.purple:hover, .purple:focus, .purple:active {
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);}
 
 .yellow{background:#f4f498;}
+.yellow:hover, .yellow:focus, .yellow:active {
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);}
 
 .green{background:#7ee8b2;}
+.green:hover, .green:focus, .green:active {
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);}
 
 /*---Footer---*/
 
