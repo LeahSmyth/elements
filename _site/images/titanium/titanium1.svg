@@ -8,35 +8,36 @@
 </style>
 <g>
 	<g>
-		<path class="st0" d="M236.8,142.3c0-53.8-43.4-97.3-97-97.3s-97,43.5-97,97.3s43.4,97.3,97,97.3S236.8,196.1,236.8,142.3z"/>
-		<path class="st0" d="M139.8,220.2c-42.9,0-77.6-34.8-77.6-77.9s34.7-77.9,77.6-77.9s77.6,34.8,77.6,77.9S182.7,220.2,139.8,220.2z
-			"/>
-		<path class="st0" d="M198,142.3c0-32.3-26-58.4-58.2-58.4S81.6,110,81.6,142.3s26,58.4,58.2,58.4S198,174.6,198,142.3z"/>
-		<path class="st0" d="M139.8,181.2c-21.4,0-38.8-17.4-38.8-38.9c0-21.5,17.4-38.9,38.8-38.9s38.8,17.4,38.8,38.9
-			C178.6,163.8,161.3,181.2,139.8,181.2z"/>
+		<path class="st0" d="M273.1,141.5c0-72.6-58.6-131.3-130.9-131.3S11.3,69,11.3,141.5s58.6,131.3,130.9,131.3
+			S273.1,214.1,273.1,141.5z"/>
+		<path class="st0" d="M142.2,246.7c-57.9,0-104.7-47-104.7-105.1S84.3,36.4,142.2,36.4s104.7,47,104.7,105.1
+			S200.1,246.7,142.2,246.7z"/>
+		<path class="st0" d="M220.7,141.5c0-43.6-35.1-78.8-78.5-78.8S63.7,98,63.7,141.5s35.1,78.8,78.5,78.8S220.7,185.1,220.7,141.5z"
+			/>
+		<path class="st0" d="M142.2,194c-28.9,0-52.4-23.5-52.4-52.5s23.5-52.5,52.4-52.5s52.4,23.5,52.4,52.5S171.2,194,142.2,194z"/>
 	</g>
 </g>
-<circle class="st1" cx="42.4" cy="142" r="3.8"/>
-<circle class="st1" cx="236.8" cy="142" r="3.8"/>
-<circle class="st1" cx="93.4" cy="80.2" r="3.8"/>
-<circle class="st1" cx="140.1" cy="64.4" r="3.8"/>
-<circle class="st1" cx="185.7" cy="79.4" r="3.8"/>
-<circle class="st1" cx="66.5" cy="118.4" r="3.8"/>
-<circle class="st1" cx="213.7" cy="118" r="3.8"/>
-<circle class="st1" cx="66.5" cy="167" r="3.8"/>
-<circle class="st1" cx="94.5" cy="205.6" r="3.8"/>
-<circle class="st1" cx="140.1" cy="220.6" r="3.8"/>
-<circle class="st1" cx="185.8" cy="205.9" r="3.8"/>
-<circle class="st1" cx="213.7" cy="166.6" r="3.8"/>
-<circle class="st1" cx="140.1" cy="83.6" r="3.8"/>
-<circle class="st1" cx="140.1" cy="200.5" r="3.8"/>
-<circle class="st1" cx="81.6" cy="143" r="3.8"/>
-<circle class="st1" cx="198.5" cy="143" r="3.8"/>
-<circle class="st1" cx="98.9" cy="100.8" r="3.8"/>
-<circle class="st1" cx="181.3" cy="100.8" r="3.8"/>
-<circle class="st1" cx="98.9" cy="183.2" r="3.8"/>
-<circle class="st1" cx="181.3" cy="184.2" r="3.8"/>
-<circle class="st1" cx="100.8" cy="142" r="3.8"/>
-<circle class="st1" cx="178.4" cy="143" r="3.8"/>
-<circle class="st1" cx="138.5" cy="143.5" r="15.5"/>
+<circle class="st1" cx="10.8" cy="141.1" r="5.1"/>
+<circle class="st1" cx="273.1" cy="141.1" r="5.1"/>
+<circle class="st1" cx="79.6" cy="57.8" r="5.1"/>
+<circle class="st1" cx="142.6" cy="36.4" r="5.1"/>
+<circle class="st1" cx="204.1" cy="56.7" r="5.1"/>
+<circle class="st1" cx="43.3" cy="109.3" r="5.1"/>
+<circle class="st1" cx="241.9" cy="108.8" r="5.1"/>
+<circle class="st1" cx="43.3" cy="174.9" r="5.1"/>
+<circle class="st1" cx="81.1" cy="227" r="5.1"/>
+<circle class="st1" cx="142.6" cy="247.2" r="5.1"/>
+<circle class="st1" cx="204.3" cy="227.4" r="5.1"/>
+<circle class="st1" cx="241.9" cy="174.3" r="5.1"/>
+<circle class="st1" cx="142.6" cy="62.3" r="5.1"/>
+<circle class="st1" cx="142.6" cy="220.1" r="5.1"/>
+<circle class="st1" cx="63.7" cy="142.5" r="5.1"/>
+<circle class="st1" cx="221.4" cy="142.5" r="5.1"/>
+<circle class="st1" cx="87" cy="85.6" r="5.1"/>
+<circle class="st1" cx="198.2" cy="85.6" r="5.1"/>
+<circle class="st1" cx="87" cy="196.7" r="5.1"/>
+<circle class="st1" cx="198.2" cy="198.1" r="5.1"/>
+<circle class="st1" cx="89.6" cy="141.1" r="5.1"/>
+<circle class="st1" cx="194.3" cy="142.5" r="5.1"/>
+<circle class="st1" cx="140.5" cy="143.2" r="20.9"/>
 </svg>
