@@ -281,6 +281,10 @@ td{color:#fff;
             border:3px solid #fff;
 			}
 
+.td:hover, .td:focus, .td:active {
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);}
+
 .white{background:#fff;}
 
 .blue{background:#98dbed;}
