@@ -59,7 +59,7 @@ h2 {font-family:'Bungee Hairline',cursive;
             color:#000;
 			text-align: center;
     		font-size:3em;
-			padding-top:1.5em;
+			padding-top:2em;
 			padding-bottom:.7em;
 			}
 
@@ -281,7 +281,7 @@ td{color:#fff;
             border:3px solid #fff;
 			}
 
-td:hover, td:focus, td:active {
+.hoverr:hover, .hoverr:focus, .hoverr:active {
   -webkit-transform:scale(1.1);
   transform:scale(1.1);}
 
