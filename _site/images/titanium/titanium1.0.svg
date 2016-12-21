@@ -4,18 +4,20 @@
 	 viewBox="0 0 283.5 368.5" style="enable-background:new 0 0 283.5 368.5;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#D2B0E2;}
-	.st1{fill:#FFFFFF;}
-	.st2{font-family:'Arimo';}
-	.st3{font-size:310.8696px;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#FFFFFF;}
 </style>
 <g>
 	<rect y="0" class="st0" width="316" height="316"/>
 </g>
-<text transform="matrix(1 0 0 1 29.0439 266.0898)" class="st1 st2 st3">Ti</text>
+<g class="st1">
+	<path class="st2" d="M138.3,75.9v190.2h-28.8V75.9H36V52.2h175.8v23.7H138.3z"/>
+	<path class="st2" d="M228.2,66.9V40.8h27.3v26.1H228.2z M228.2,266.1V101.9h27.3v164.2H228.2z"/>
+</g>
 <g>
 	<rect x="221" y="31" class="st0" width="51" height="57"/>
 </g>
 <g>
-	<rect x="228" y="52" class="st1" width="28" height="28"/>
+	<rect x="228" y="52" class="st2" width="28" height="28"/>
 </g>
 </svg>

@@ -58,9 +58,9 @@ h2 {font-family:'Bungee Hairline',cursive;
            font-weight:normal;
             color:#000;
 			text-align: center;
-    		font-size:4em;
-			padding-top:2em;
-			padding-bottom:.7em;
+    		font-size:5em;
+			padding-top:1em;
+			padding-bottom:0.5em;
 			}
 
 h3{font-family: 'Sacramento', cursive;
@@ -106,6 +106,34 @@ nav{position:fixed;
     font-size:8em;
     font-weight:bold;
     color:#d2b0e2;}
+
+/*---Elements---*/
+.element-individual{margin-top:-1em;
+        margin-left:1em;
+        width:40%;
+        height:27em;
+        table-layout:fixed;}
+
+.bold1{color:#fff;
+    font-size:1.4em;
+    padding-left:.4em;
+    width:37%;
+    background-color:rgba(0, 0, 0, 0);
+			font-weight:bold;
+			text-align:left;
+            border:0px solid #fff;
+			}
+
+.bold3{color:#fff;
+    font-size:1.3em;
+    padding-left:.4em;
+    background-color:rgba(0, 0, 0, 0);
+			font-weight:normal;
+			text-align:left;
+            border:0px solid #fff;
+			}
+
+tr:hover{background-color: rgba(255, 255, 255, 0.5);}
 
 /*---Layout---*/
 
@@ -192,7 +220,7 @@ nav{position:fixed;
         -webkit-animation-iteration-count:infinite;
         -webkit-animation-timing-function:linear;}
 
-.character{padding-top:2em; margin-left:36em; height:7em;}
+.character{padding-top:2em; margin-left:40em; height:7em;}
 
 ul.img-list {
   list-style-type:none;
@@ -447,6 +475,32 @@ h3{font-family: 'Sacramento', cursive;
     padding-left:4em;
     padding-bottom:3em;
 	}
+    
+    
+    .element-individual{margin-top:-1em;
+        margin-left:1em;
+        width:40%;
+        height:27em;
+        table-layout:fixed;}
+
+.bold1{color:#fff;
+    font-size:1.1em;
+    padding-left:.4em;
+    width:37%;
+    background-color:rgba(0, 0, 0, 0);
+			font-weight:bold;
+			text-align:left;
+            border:0px solid #fff;
+			}
+
+.bold3{color:#fff;
+    font-size:1em;
+    padding-left:.4em;
+    background-color:rgba(0, 0, 0, 0);
+			font-weight:normal;
+			text-align:left;
+            border:0px solid #fff;
+			}
 
 /*---Images---*/
 
@@ -639,6 +693,31 @@ h3{font-family: 'Sacramento', cursive;
     color:#d2b0e2;}
 
 /*---Masonry---*/
+    
+    .element-individual{margin-top:-1em;
+        margin-left:1em;
+        width:95%;
+        height:27em;
+        table-layout:fixed;}
+
+.bold1{color:#fff;
+    font-size:1em;
+    padding-left:.1em;
+    width:34%;
+    background-color:rgba(0, 0, 0, 0);
+			font-weight:bold;
+			text-align:left;
+            border:0px solid #fff;
+			}
+
+.bold3{color:#fff;
+    font-size:.9em;
+    padding-left:.4em;
+    background-color:rgba(0, 0, 0, 0);
+			font-weight:normal;
+			text-align:left;
+            border:0px solid #fff;
+			}
 
 .item{height:27em;
     padding-left:.8em;
@@ -659,9 +738,9 @@ h3{font-family: 'Sacramento', cursive;
         margin-top:-9em;}
 
 .elements{height:20em;
-        width:15em;
+        width:18em;
         float:left;
-        padding-left:1em;
+        padding-left:.5em;
         margin-right:2em;
         padding-bottom:0em;}
 
@@ -670,7 +749,7 @@ h3{font-family: 'Sacramento', cursive;
     margin-right:2em;
     margin-left:4em;
     padding-top:1em;
-    padding-bottom:1em;}
+    padding-bottom:0em;}
 
 .structure{position:relative;
     height:18em;
