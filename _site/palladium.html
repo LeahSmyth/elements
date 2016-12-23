@@ -71,7 +71,17 @@
         
         </div>
     
-    <a href="https://www.youtube.com/watch?v=DuTudUFmdlo"><img class="character" src="images/palladium/palladium.svg"></a>
+            <div class="popup" onclick="myFunction()"><img class="character" src="images/palladium/palladium.svg">
+  <span class="popuptext" id="myPopup">Palladium is 30 times rarer than Gold.</span>
+</div>
+    
+    <script>
+// When the user clicks on div, open the popup
+function myFunction() {
+    var popup = document.getElementById('myPopup');
+    popup.classList.toggle('show');
+}
+</script>
     
     </body>
     

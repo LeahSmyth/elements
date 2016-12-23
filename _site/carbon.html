@@ -71,8 +71,18 @@
                    </ul>
         
         </div>
+        
+    <div class="popup" onclick="myFunction()"><img class="character" src="images/carbon/carbon.svg">
+  <span class="popuptext" id="myPopup">Diamond is the only thing strong enough to scratch another diamond.</span>
+</div>
     
-        <a href="https://www.youtube.com/watch?v=1WifEFI6eK8"><img class="character" src="images/carbon/carbon.svg"></a>
+    <script>
+// When the user clicks on div, open the popup
+function myFunction() {
+    var popup = document.getElementById('myPopup');
+    popup.classList.toggle('show');
+}
+</script>
         
         
         </body>

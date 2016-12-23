@@ -71,7 +71,17 @@
         
         </div>
     
-    <a href="https://www.youtube.com/watch?v=Rl3ELiPXFRo"><img class="character" src="images/gold/gold2.svg"></a>
+            <div class="popup" onclick="myFunction()"><img class="character" src="images/gold/gold2.svg">
+  <span class="popuptext" id="myPopup">Gold can be found beneath the earth on all seven continents.</span>
+</div>
+    
+    <script>
+// When the user clicks on div, open the popup
+function myFunction() {
+    var popup = document.getElementById('myPopup');
+    popup.classList.toggle('show');
+}
+</script>
     
 </body>
     

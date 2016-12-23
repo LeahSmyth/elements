@@ -71,7 +71,17 @@
         
         </div>
     
-    <a href="https://www.youtube.com/watch?v=rbIfI-8iYuA"><img class="character" src="images/platinum/platinum.svg"></a>
+        <div class="popup" onclick="myFunction()"><img class="character" src="images/platinum/platinum.svg">
+  <span class="popuptext" id="myPopup">Platinum records are actually made out of coloured plastic.</span>
+</div>
+    
+    <script>
+// When the user clicks on div, open the popup
+function myFunction() {
+    var popup = document.getElementById('myPopup');
+    popup.classList.toggle('show');
+}
+</script>
     
     </body>
     

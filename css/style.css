@@ -220,7 +220,7 @@ tr:hover{background-color: rgba(255, 255, 255, 0.5);}
         -webkit-animation-iteration-count:infinite;
         -webkit-animation-timing-function:linear;}
 
-.character{padding-top:2em; margin-left:40em; height:7em;}
+.character{padding-top:4.5em; margin-left:36em; height:7em;}
 
 ul.img-list {
   list-style-type:none;
@@ -292,6 +292,61 @@ span.text-content {
 }
 
 .imae{height:250px; width:350px;}
+
+.popup {
+    position:relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility:hidden;
+    width:50%;
+    background-color:#555;
+    color:#fff;
+    text-align: center;
+    border-radius:6px;
+    padding:7px 0;
+    position:absolute;
+    margin-bottom:-.5em;
+    z-index:1;
+    bottom:70%;
+    left:71.5%;
+    margin-left:-30px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
 
 /*---Table---*/
 
